@@ -1,0 +1,6 @@
+2020-10-05 10:25:59,442 - [ERROR] - test_api_reg - case - [日志信息]抛出的异常为assert 1 == 2
+2020-10-05 10:25:59,987 - [ERROR] - test_api_reg - case - [日志信息]抛出的异常为assert 1 == 2
+2020-10-05 10:39:46,231 - [ERROR] - test_api_reg - case - [日志信息]抛出的异常为assert 1 == 2
+2020-10-05 10:39:51,355 - [ERROR] - test_api_reg - case - [日志信息]抛出的异常为assert 1 == 2
+2020-10-05 10:39:56,492 - [ERROR] - test_api_reg - case - [日志信息]抛出的异常为assert 1 == 2
+2020-10-05 10:40:01,664 - [ERROR] - test_api_reg - case - [日志信息]抛出的异常为assert 1 == 2

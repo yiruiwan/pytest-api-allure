@@ -1,0 +1,15 @@
+admin_user:
+  id: 172552
+  mobilephone: '13162841037'
+  pwd: '12345678'
+  reg_name: admin_user
+borw_user:
+  id: 172553
+  mobilephone: '15735728041'
+  pwd: '12345678'
+  reg_name: borw_user
+invest_use:
+  id: 172554
+  mobilephone: '13301762835'
+  pwd: '12345678'
+  reg_name: invest_use
